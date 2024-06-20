@@ -1,4 +1,4 @@
-LIVE LINK : https://affnansawad.github.io/Assignment-3/
+LIVE LINK :[ https://affnansawad.github.io/Assignment-3/](https://affnansawad.github.io/Hockey-Club-1.0/)
 
 
 **Project Name: Hockey-Club-1.0**
